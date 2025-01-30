@@ -1,0 +1,2 @@
+llama_train and llama_test contains data from llama_train3 and llama_test3.
+changed it so it is easier in reproducing graphs.

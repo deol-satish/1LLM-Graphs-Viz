@@ -1,0 +1,5 @@
+    # Function to calculate CDF
+    def calculate_cdf(values):
+        sorted_data = np.sort(values)
+        cumulative_data = np.cumsum(sorted_data) / np.sum(sorted_data)
+        return sorted_data, cumulative_data
