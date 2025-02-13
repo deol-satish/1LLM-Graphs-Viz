@@ -1,6 +1,7 @@
 __pycache__
 .idea
 .vscode
-# *.json
-# *.png
-/Eval/output/datasets
+*.json
+*.pdf
+*.eps
+*.png
